@@ -34,6 +34,7 @@ I'm a passionate developer with expertise in mobile app development using Flutte
 - **Git & GitHub**
 - **VS Code**
 - **HIVE**
+- **ANDROID STUDIO**
 ## Projects
 
 ### [Portfolio](https://github.com/sangan007/sangeerth.git)
