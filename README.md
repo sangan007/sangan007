@@ -40,7 +40,7 @@ I'm a passionate developer with expertise in mobile app development using Flutte
 ### [Portfolio](https://github.com/sangan007/sangeerth.git)
 This web application is a showcase of my skills and projects as a mobile and web developer. Built with HTML, CSS.This portfolio highlights my expertise in languages such as C, C++, Dart, and Golang. It features an elegant and responsive design, providing a seamless user experience across devices. Explore my work, learn about my technical journey, and discover the projects that demonstrate my passion for innovative development.
 
-### [TranFerit](https://github.com/sangan007/TransFerit-.git)
+### [TranFerit](https://github.com/sangan007/money-manager)
 TransFerit is an intuitive expense tracking app designed to simplify financial management. With TransFerit, you can effortlessly log expenses and incomes and gain valuable insights into your spending habits. Ideal for personal use or small business tracking, TransFerit offers powerful features in an easy-to-use interface. 
 
 ## Get in Touch
