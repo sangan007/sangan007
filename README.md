@@ -9,16 +9,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## About Me
+passionate developer with expertise in mobile app development using Flutter and web development. My journey in coding began with C and C++, and I've since expanded my skill set to include Dart, Go, and various web technologies. 
 
-I'm a passionate developer with expertise in mobile app development using Flutter and web development. My journey in coding began with C and C++, and I've since expanded my skill set to include Dart, Go, and various web technologies. 
-
-- 🌱 I’m currently learning more about backend development and advanced Flutter techniques.
-- 👯 I’m looking to collaborate on open-source projects and innovative app ideas.
-- 🤔 I’m looking for help with cloud services and deploying full-stack applications.
-- 💬 Ask me about Flutter, Dart, Golang, and anything related to app development.
-- 📫 How to reach me: mailto:sangeerthsangan107@gmail.com
-
-## My Skills
+## Skills
 
 ### Programming Languages:
 - **C**
@@ -35,4 +28,3 @@ I'm a passionate developer with expertise in mobile app development using Flutte
 - **VS Code**
 - **HIVE**
 - **ANDROID STUDIO**
-
