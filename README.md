@@ -57,15 +57,3 @@ Information Technology professional with expertise in backend development, mobil
 - Engineered a fraud detection system achieving 92% precision with real-time monitoring capabilities
 ```
 
-This README maintains a professional appearance while incorporating all the key information from your resume. It uses standard Markdown formatting with badges for your primary technologies, clear section headers, and concise bullet points to highlight your experience and achievements.
-
-<Actions>
-  <Action name="Add project screenshots" description="Add screenshots of your projects to make the README more visually appealing" />
-  <Action name="Create a skills progress bar" description="Add visual representation of your skill proficiency levels" />
-  <Action name="Add GitHub stats" description="Include GitHub statistics to showcase your activity" />
-  <Action name="Create a Flutter profile app" description="Develop a Flutter app that showcases your portfolio" />
-  <Action name="Add contribution graph" description="Include your GitHub contribution graph in the README" />
-</Actions>
-
-```
-
