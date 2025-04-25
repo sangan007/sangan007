@@ -55,5 +55,5 @@ Information Technology professional with expertise in backend development, mobil
 - Developed a trading bot with real-time sentiment analysis
 - Created a sign language detection app with 95% accuracy
 - Engineered a fraud detection system achieving 92% precision with real-time monitoring capabilities
-```
+
 
